@@ -1,5 +1,5 @@
-<h3>BoB11 home work</h3> \n
-	- add-nbo : Main \n
-	- sub-add : add function \n
-	- add.h   : header \n
+<h3>BoB11 home work</h3> <br/>
+	- add-nbo : Main<br/>
+	- sub-add : add function<br/>
+	- add.h   : header<br/>
 
